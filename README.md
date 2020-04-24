@@ -1,0 +1,2 @@
+# SimpBotPublic
+SimpBot for discord
