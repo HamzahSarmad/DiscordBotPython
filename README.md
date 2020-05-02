@@ -2,11 +2,11 @@
 
 ##Table of Contents
 
-* [Introduction] (#introduction)
-* [Technologies] (#technologies)
-* [Setup] (#setup)
-* [Commands] (#commands)
-* []
+[Introduction] (#introduction)
+[Technologies] (#technologies)
+[Setup] (#setup)
+[Commands] (#commands)
+[]
 
 ##Introduction
 
