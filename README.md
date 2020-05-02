@@ -17,3 +17,7 @@ A general bot with some emphasis on simps as well as some other general function
 * discord.py ver 1.3.3
 * praw ver 7.0.0
 * mysql-connector-python ver 8.0.19
+
+## Setup
+To run this bot first you need to install all of the required libraries listed in the technologies.
+![Installing mysql database for python](https://pythonspot.com/mysql-with-python/)
