@@ -33,23 +33,23 @@ py bot.py
 
 ## Commands
 ### List of the current commands for this bot:
-* -commands bring up a list of commands
-* -Acommands brings up a list of admin commands
-* -enlighten sends a paragraph of text to the channel
-* -info bot info
-* -simp gets a post from [TheSimpPolice](https://www.reddit.com/r/TheSimpPolice/) subreddit
-* -aww gets a post from [aww](https://www.reddit.com/r/aww/) subreddit
-* -wholesome gets a post from [wholesomememes](https://www.reddit.com/r/wholesomememes/) subreddit
-* -whiteknight gets a post from [Whiteknighting](https://www.reddit.com/r/Whiteknighting/) subreddit
-* -meme gets a post from one of the following subreddits: [dankmemes](https://www.reddit.com/r/dankmemes/), [BlackPeopleTwitter](https://www.reddit.com/r/BlackPeopleTwitter/), [CrackheadCraigslist](https://www.reddit.com/r/CrackheadCraigslist/)
-* -owner posts the owner of the server
-* ping shows the response time of the bot
-* -eightball gives an answer to a question
-* -myinfo shows your information
-* -level shows your level
-* -xp shows your xp
-* simpcount shows your simpcount
+* __-commands__ bring up a list of commands
+* __-Acommands__ brings up a list of admin commands
+* __-enlighten__ sends a paragraph of text to the channel
+* __-info__ bot info
+* __-simp__ gets a post from [TheSimpPolice](https://www.reddit.com/r/TheSimpPolice/) subreddit
+* __-aww__ gets a post from [aww](https://www.reddit.com/r/aww/) subreddit
+* __-wholesome__ gets a post from [wholesomememes](https://www.reddit.com/r/wholesomememes/) subreddit
+* __-whiteknight__ gets a post from [Whiteknighting](https://www.reddit.com/r/Whiteknighting/) subreddit
+* __-meme__ gets a post from one of the following subreddits: [dankmemes](https://www.reddit.com/r/dankmemes/), [BlackPeopleTwitter](https://www.reddit.com/r/BlackPeopleTwitter/), [CrackheadCraigslist](https://www.reddit.com/r/CrackheadCraigslist/)
+* __-owner__ posts the owner of the server
+* __-ping__ shows the response time of the bot
+* __-eightball__ gives an answer to a question
+* __-myinfo__ shows your information
+* __-level__ shows your level
+* __-xp__ shows your xp
+* __-simpcount__ shows your simpcount
 
 ### List of Admin Commands
-* simpy increases a specified users simpcount
-* desimp decreases a specified users simpcount
+* __-simpy__ increases a specified users simpcount
+* __-desimp__ decreases a specified users simpcount
