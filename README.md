@@ -20,4 +20,4 @@ A general bot with some emphasis on simps as well as some other general function
 
 ## Setup
 To run this bot first you need to install all of the required libraries listed in the technologies.
-![Installing mysql database for python](https://pythonspot.com/mysql-with-python/)
+[Installing mysql database for python](https://pythonspot.com/mysql-with-python/)
