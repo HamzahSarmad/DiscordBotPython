@@ -11,6 +11,7 @@
 
 A general bot with some emphasis on simps as well as some other general functionality such as a basic leveling system.
 Link to add the bot to your own server [here](https://discordapp.com/api/oauth2/authorize?client_id=702262992288612487&permissions=0&scope=bot)
+https://discordapp.com/api/oauth2/authorize?client_id=702262992288612487&permissions=0&scope=bot
 
 ## Technologies
 * Python ver 3.8.2
