@@ -1,13 +1,13 @@
-#Simp Bot Public
+# Simp Bot Public
 
-##Table of Contents
+## Table of Contents
 
-[Introduction] (#introduction)
-[Technologies] (#technologies)
-[Setup] (#setup)
-[Commands] (#commands)
-[]
+* [Introduction] (#introduction)
+* [Technologies] (#technologies)
+* [Setup] (#setup)
+* [Commands] (#commands)
+* []
 
-##Introduction
+## Introduction
 
 A general bot with some emphasis on simps as well as some other general functionality such as a basic leveling system.
