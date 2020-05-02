@@ -32,3 +32,24 @@ py bot.py
 ```
 
 ## Commands
+List of the current commands for this bot:
+* -commands 
+* -Acommands
+* -enlighten
+* -info
+* -simp
+* -aww
+* -wholesome
+* -whiteknight
+* -meme
+* -owner
+* ping
+* -eightball
+* -myinfo
+* -level
+* -xp
+* simpcount
+
+List of Admin Commands
+* simpy
+* desimp
