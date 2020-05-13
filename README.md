@@ -27,7 +27,7 @@ To run this bot first you need to install all of the required libraries listed i
 Once all of the required libraries are installed replace all the required key values.
 To run the bot open commmand prompt and run the following command replacing "bot" with the name of the bot:
 ```
-py bot.py
+py public.py
 ```
 
 ## Commands
