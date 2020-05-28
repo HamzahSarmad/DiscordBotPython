@@ -1,4 +1,4 @@
-# Simp Bot Public
+# Discord Bot Public
 
 ## Table of Contents
 
