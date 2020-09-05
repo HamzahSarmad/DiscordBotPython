@@ -1,4 +1,4 @@
-# Discord Bot Public
+# Discord Bot Public (README UPDATE PENDING)
 
 ## Table of Contents
 
